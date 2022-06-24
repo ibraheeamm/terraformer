@@ -78,7 +78,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/lambda v1.2.1
 	github.com/aws/aws-sdk-go-v2/service/mediapackage v1.15.3
 	github.com/aws/aws-sdk-go-v2/service/mediastore v1.12.5
-	github.com/aws/aws-sdk-go-v2/service/opsworks v1.2.2
+	github.com/aws/aws-sdk-go-v2/service/opsworks v1.13.6
 	github.com/aws/aws-sdk-go-v2/service/organizations v1.2.1
 	github.com/aws/aws-sdk-go-v2/service/qldb v1.1.3
 	github.com/aws/aws-sdk-go-v2/service/rds v1.18.1

@@ -236,6 +236,8 @@ github.com/aws/aws-sdk-go-v2 v1.16.3/go.mod h1:ytwTPBG6fXTZLxxeeCCWj2/EMYp/xDUgX
 github.com/aws/aws-sdk-go-v2 v1.16.4/go.mod h1:ytwTPBG6fXTZLxxeeCCWj2/EMYp/xDUgX+OET6TLNNU=
 github.com/aws/aws-sdk-go-v2 v1.16.5 h1:Ah9h1TZD9E2S1LzHpViBO3Jz9FPL5+rmflmb8hXirtI=
 github.com/aws/aws-sdk-go-v2 v1.16.5/go.mod h1:Wh7MEsmEApyL5hrWzpDkba4gwAPc5/piwLVLFnCxp48=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.2 h1:LFOGNUQxc/8BlhA4FD+JdYjJKQK6tsz9Xiuh+GUTKAQ=
+github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.2/go.mod h1:u/38zebMi809w7YFnqY/07Tw/FSs6DGhPD95Xiig7XQ=
 github.com/aws/aws-sdk-go-v2/config v1.1.4 h1:2hjdDldmJJjb+rFieQySfOFt4WwxKZJVTEB6RBI74T4=
 github.com/aws/aws-sdk-go-v2/config v1.1.4/go.mod h1:op05ummoVoAqctpA80jVt/+hvEtLfuKmDyx0bIuvfbE=
 github.com/aws/aws-sdk-go-v2/credentials v1.1.4 h1:whYYw2srG+zUQzUw4LhML83f+xd22Vm7gv0I7aJglc8=
@@ -354,8 +356,8 @@ github.com/aws/aws-sdk-go-v2/service/iot v1.24.1 h1:MSdfwlmzeURkNUZOfOy3RgnaCKcY
 github.com/aws/aws-sdk-go-v2/service/iot v1.24.1/go.mod h1:kFpEEMcgKmh1bixvM+YLNyCTk1JVWRixQRMQkE47ltY=
 github.com/aws/aws-sdk-go-v2/service/kafka v1.14.0 h1:w0zxu2UMLOmxu2Blyi317fSGivjW0jdBuR9MIWXZdb4=
 github.com/aws/aws-sdk-go-v2/service/kafka v1.14.0/go.mod h1:mmTxASAqKgJc2pl9UQYdnq8ZW2qv2+Ri4N0xPvsojDM=
-github.com/aws/aws-sdk-go-v2/service/kinesis v1.2.1 h1:MXy6AyLlbBYypXEsmK94l9yGjKKtxNaD/jFzVVOsnYQ=
-github.com/aws/aws-sdk-go-v2/service/kinesis v1.2.1/go.mod h1:ZdVDeEkxSDTPYDtb8kVxXzyOSBkAQVXCA9fanM45a/c=
+github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.7 h1:1dF+Y/DV5jqMuStT02Wr7eIm6K/QFhHZ/EMvtdbafBk=
+github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.7/go.mod h1:+4Ux150G3wNqJnrxv5tm9z4qygMasqWdqqVfW8Pyg/c=
 github.com/aws/aws-sdk-go-v2/service/kms v1.2.2 h1:9CJBrElBVX699f4ugbwsD2EPyHYWEdf9rGZZJwDzPSU=
 github.com/aws/aws-sdk-go-v2/service/kms v1.2.2/go.mod h1:aDkYNnoS4NikbSA7AiTomko1eJIZgrIG0ZE0yPJRn+w=
 github.com/aws/aws-sdk-go-v2/service/lambda v1.2.1 h1:U1AhnZgIHWCh6kIXuq6RkTptzU6szpDHjRbrA7g+99s=

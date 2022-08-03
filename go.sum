@@ -136,8 +136,8 @@ github.com/IBM/go-sdk-core/v5 v5.5.1/go.mod h1:Sn+z+qTDREQvCr+UFa22TqqfXNxx3o723
 github.com/IBM/go-sdk-core/v5 v5.8.0/go.mod h1:+YbdhrjCHC84ls4MeBp+Hj4NZCni+tDAc0XQUqRO9Jc=
 github.com/IBM/go-sdk-core/v5 v5.10.1 h1:IEpjDJyB7okrC6bJ7fPZqBiOv+16VichT6kZXAz9bbQ=
 github.com/IBM/go-sdk-core/v5 v5.10.1/go.mod h1:u/33BzPy8sthgEhSeBnf6/kPCqwvC9VKw5byfqQfbe0=
-github.com/IBM/ibm-cos-sdk-go v1.5.0 h1:YCmAgsdtp/irQep5g+62OvjLNj35tMXLqTC5jQ+YjWo=
-github.com/IBM/ibm-cos-sdk-go v1.5.0/go.mod h1:4mqv/ejW1PKW+Ij6ytU+W8j1UZeLmSEsR5K+flBaWMY=
+github.com/IBM/ibm-cos-sdk-go v1.9.0 h1:kXTLB9GBwks3+YZopYz/eRbdyeVl2BXFALeqtQ8Duoc=
+github.com/IBM/ibm-cos-sdk-go v1.9.0/go.mod h1:Oi8AC5WNDhmUJgbo1GL2FtBdo0nRgbzE/1HmCL1SERU=
 github.com/IBM/keyprotect-go-client v0.6.0 h1:jZExoYSaoQ5TrfEzPOmBLc1vJ0VWA0RfKC+Bx39IeGo=
 github.com/IBM/keyprotect-go-client v0.6.0/go.mod h1:SVr2ylV/fhSQPDiUjWirN9fsyWFCNNbt8GIT8hPJVjE=
 github.com/IBM/networking-go-sdk v0.30.0 h1:GUfvq4AOK0iTUEodPL2k812y2W1GdZs6hUTa81KUKys=
@@ -1661,7 +1661,6 @@ golang.org/x/tools v0.0.0-20200501065659-ab2804fb9c9d/go.mod h1:EkVYQZoAsY45+roY
 golang.org/x/tools v0.0.0-20200505023115-26f46d2f7ef8/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
 golang.org/x/tools v0.0.0-20200512131952-2bc93b1c0c88/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
 golang.org/x/tools v0.0.0-20200515010526-7d3b6ebf133d/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
-golang.org/x/tools v0.0.0-20200601175630-2caf76543d99/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
 golang.org/x/tools v0.0.0-20200612022331-742c5eb664c2/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
 golang.org/x/tools v0.0.0-20200618134242-20370b0cb4b2/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=
 golang.org/x/tools v0.0.0-20200619180055-7c47624df98f/go.mod h1:EkVYQZoAsY45+roYkvgYkIh4xh/qjgUK9TdY2XT94GE=

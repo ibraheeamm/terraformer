@@ -73,7 +73,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/iam v1.3.0
 	github.com/aws/aws-sdk-go-v2/service/iot v1.24.1
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.14.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.2.1
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.10
 	github.com/aws/aws-sdk-go-v2/service/kms v1.18.1
 	github.com/aws/aws-sdk-go-v2/service/lambda v1.2.1
 	github.com/aws/aws-sdk-go-v2/service/mediapackage v1.15.3
@@ -354,6 +354,7 @@ require (
 	cloud.google.com/go/compute v1.3.0 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.3 // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
